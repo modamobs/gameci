@@ -11,6 +11,7 @@ public class GameCI : MonoBehaviour
     void Start()
     {
         test.text = "123123123";
+        test.text = "12312312311";
     }
 
     // Update is called once per frame
